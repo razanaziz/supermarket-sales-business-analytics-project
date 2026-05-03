@@ -203,6 +203,23 @@ Sales patterns showed clear seasonality and stable demand behavior
 
 This supports stronger inventory planning and promotional timing.
 
+Visuals: 
+
+### Sales by Branch
+![Sales by Branch](visuals/sales_by_branch.png)
+
+### Product Profitability
+![Product Profitability](visuals/product_profitability.png)
+
+### Regression Results
+![Regression Results](visuals/regression_results.png)
+
+### Customer Segmentation
+![Customer Clustering](visuals/customer_clustering.png)
+
+### Sales Forecast
+![Sales Forecast](visuals/sales_forecast.png)
+
 Business Recommendations
 1. Increase Bulk-Buy Promotions
 
